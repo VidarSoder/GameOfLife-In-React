@@ -1,0 +1,73 @@
+
+.box-wrapper {
+  display:flex;
+  justify-content: center;
+}
+
+.inactive {
+  background-color: gray;
+  margin: 0;
+}
+.active{
+  background-color: black;
+  margin: 0;
+}
+
+.Map{
+  margin: 0;
+  line-height: 0;
+  width: 360px;
+  height: 360px;
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+.Map div {
+  display: inline-block;
+  line-height: 0;
+  border: 1px solid whitesmoke;
+  width: 10px;
+  height: 10px;
+  margin: 0;
+
+}
+
+.image{
+  margin: 0;
+}
+
+.box{
+  margin-bottom: 50px;
+}
+h1{
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  position: relative;
+  top: 60px;
+  height: 50px;
+  margin: 0;
+  text-align: center;
+  font-weight: normal;
+}
+.btn-wrapper button{
+  width: 110px;
+  border-radius: 5px;
+  font-weight: lighter;
+  text-decoration: none;
+  box-shadow:  2px 2px 7px gray;
+  
+}
+button:hover{
+background-color: lightgreen;
+}
+.btn-wrapper{
+  width: 360px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+}
+body{
+  margin: 5;
+  background-color: beige;
+}
+
