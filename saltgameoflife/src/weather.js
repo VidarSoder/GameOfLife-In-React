@@ -1,5 +1,8 @@
 import React from "react";
 
+//This is the background picture for the Title, it takes the current weather in Stockholm and searchs for
+// a picture based on the result.
+
 export default class weatherImage extends React.Component{
     constructor() {
         super();
