@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Can be played here : https://gameoflifetest.herokuapp.com/
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
