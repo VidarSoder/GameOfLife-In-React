@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Can be played here : https://gameoflifetest.herokuapp.com/
+Can be played here : https://gameoflifetest.herokuapp.com/ (will be slow because of heroku not prioritizing apps not used often)
 
 ### `npm start`
 
